@@ -1,0 +1,183 @@
+.navbar-brand{
+  font-family: cursive;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.nav-link{
+  text-decoration: none;
+	font-family: cursive;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: normal;
+	text-transform:none;
+	letter-spacing: normal;
+	line-height: 1.3em;
+	color: #596365;
+  
+}
+
+
+.container {
+  display: block;
+  border-radius: 10px;
+  background: slategrey;
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+.container-contact {
+  display: block;
+  border-radius: 10px;
+
+  margin-top: 30px;
+  margin-bottom: 50px;
+  width: 50%;
+  display: block;
+}
+
+.form-submit {
+  margin-left: 40%;
+  margin-right: 25%;
+  width: 20%;
+  background-color: cornflowerblue;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+.card {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.5rem;
+  background: none;
+  color: white;
+  border: hidden;
+  width: 60%;
+  margin: auto;
+  padding: auto;
+}
+.card-header {
+  margin: 10px;
+  padding: 10px;
+}
+form {
+  margin-left: 15%;
+  margin-right: 15%;
+  width: 70%;
+}
+.zmdi {
+  font-size: small;
+  vertical-align: middle;
+  margin: auto;
+  padding: auto;
+}
+label {
+  display: block;
+  width: 1px;
+  white-space: nowrap;
+  margin: 1px;
+}
+
+span {
+  display: block;
+  padding: 0 4px 0 6px;
+}
+
+input {
+  width: 70%;
+
+  padding-top: 1px;
+}
+.container-home,
+.error-page {
+  position: relative;
+  height: 100%;
+  padding: 25%;
+  min-height: 100%;
+  width: 100%;
+
+  background: slategrey;
+  opacity: 0.8;
+}
+.login-link,
+.signup-link {
+  font-size: 1rem;
+  display: flex;
+  justify-content: center;
+  color: floralwhite;
+}
+.content-body,
+.error-page-title,
+.error-page-desc,
+.error-page-button {
+  display: flex;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  justify-content: center;
+  align-content: center;
+  font-size: 2rem;
+  color: goldenrod;
+}
+#watermark {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  color: black;
+  font-size: 6rem;
+  right:0;
+  bottom:0;
+}
+.content-title {
+  display: flex;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  justify-content: center;
+  align-content: center;
+  font-size: 1.5rem;
+  color: silver;
+}
+.profile-image {
+  display: block;
+  text-align: right;
+  margin-right: 10%;
+  margin-top: 10%;
+}
+.profile-head {
+  display: block;
+  text-align: left;
+  margin-left: 0;
+  margin-top: 5%;
+  padding-bottom: 20%;
+}
+.profile-name {
+  font-size: 1.5rem;
+  font-family: "Times New Roman", Times, serif;
+  color: black;
+}
+.profile-work {
+  font-size: 1rem;
+  font-family: "Times New Roman", Times, serif;
+  color: whitesmoke;
+}
+.profile-rating {
+  font-size: 1rem;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  color: lightyellow;
+}
+.profile-button {
+  float: right;
+  margin-right: 40%;
+  margin-top: 20%;
+  width: 60%;
+}
+.profile-link-body {
+  display: block;
+  text-align: center;
+  margin-left: 15%;
+
+  padding-bottom: 30%;
+}
+.profile-link-head {
+  margin-top: 5%;
+  display: block;
+  text-align: center;
+  margin-left: 15%;
+}
